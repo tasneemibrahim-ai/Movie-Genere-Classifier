@@ -230,7 +230,3 @@ A window will open with the following fields:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Made with ❤️ for learning Machine Learning & NLP</p>
