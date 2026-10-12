@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+data/*.csv
+!data/IMDB-Movie-Data.csv
+
+out/
+target/
+build/
+compiled_classes_test_build/
+*.rar
+__pycache__/
+.venv*/
+venv*/
+.vscode/
+.idea/
